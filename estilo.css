@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    font-family: Sans-serif;
+    background-color: #ccc;
+}
+
+.hero{
+    background-image: url(Imagens/pexels-aaron-burden-2449543.jpg);
+    height: 600px;
+    display: relative;
+    background-size: cover;
+    background-position: right center;
+    padding-top: 1px;
+}
+
+.hero-content{
+    margin: 0 auto 0;
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+    color: black;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    text-align: center;
+    background-color: #9753E0;
+    color: #ffffff;
+}
+
+.centralizado{
+    text-align: center;
+}
+
+.size{
+    font-size: 24px;
+}
+
+.margin{
+    margin: 80px;
+}
+
+.pad{
+    margin: 0;
+    padding: 80px;
+}
+
+.border{
+    margin: 0;
+    border: 20px solid #4ef17f;
+}
+
+a {
+    text-decoration: none;
+    padding: 7px;
+    border-radius: 2.5px;
+}
+
+a:hover{
+    color: #ddd6e6;
+    background-color: blue;
+    text-decoration: none;
+}
+
+    
+
